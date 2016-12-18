@@ -1,0 +1,5 @@
+nameko
+flask
+flasgger
+pexpect
+git+https://github.com/tgalal/yowsup@master
